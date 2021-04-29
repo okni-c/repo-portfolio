@@ -3,7 +3,7 @@
 
 ## Description 
     
-This is a portfolio for all of my work on GihHub. It main audience is future employers. It uses the GitHub API to automatically fetch my repository data to dynamically add to the site.
+This is a portfolio for all of my work on GihHub. Its main audience is future employers. It uses the GitHub API to automatically fetch my repository data to dynamically add to the site.
     
 ## Table of Contents
     
